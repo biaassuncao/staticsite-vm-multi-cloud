@@ -20,5 +20,6 @@ variable "subnet_cidr" {
 
 variable "fqdn" {
     type    = string
-    default = "staticsite-vm-bia"
+    default = "staticsitevmbia"
 }
+
